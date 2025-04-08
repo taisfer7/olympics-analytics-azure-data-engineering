@@ -10,5 +10,5 @@ This project demonstrates a data engineering pipeline using **Azure Cloud Servic
 
 ## Dataset Overview
 
-- **Source**: Tokyo Olympics Dataset on Kaggle: https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo  
+- **Source**: Tokyo Olympics Dataset on Kaggle- https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo  
 
