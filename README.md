@@ -1,4 +1,4 @@
-###Tokyo 2020 Olympics Data Engineering Project
+# Tokyo 2020 Olympics Data Engineering Project
 
 This project demonstrates a data engineering pipeline using **Azure Cloud Services**.
 
